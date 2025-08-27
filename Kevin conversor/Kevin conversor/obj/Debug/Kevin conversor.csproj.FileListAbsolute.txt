@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\bin\Debug\Kevin conversor.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\bin\Debug\Kevin conversor.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\bin\Debug\Kevin conversor.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin conversor.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin_conversor.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin_conversor.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin conversor.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin conversor.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin conversor.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin conversor.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Kevin conversor\Kevin conversor\obj\Debug\Kevin conversor.exe.config

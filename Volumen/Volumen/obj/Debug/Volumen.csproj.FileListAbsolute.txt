@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\bin\Debug\Volumen.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\bin\Debug\Volumen.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\bin\Debug\Volumen.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Volumen\Volumen\obj\Debug\Volumen.exe.config
