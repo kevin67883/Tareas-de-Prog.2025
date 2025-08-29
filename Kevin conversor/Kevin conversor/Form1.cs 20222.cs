@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -23,6 +24,7 @@ namespace Kevin_conversor
            Volumen
            Almacenamiento
            Tiempo
+           Area
             */
         string[][] etiquetas = new string[][] {
                 new string[] { "Dolar", "Pesos Mexicanos", "Quetzal", "Lempiras", "Colon sv", "Cordobas", "Colon CR" },//Monedas
@@ -31,6 +33,7 @@ namespace Kevin_conversor
                 new string[] { "Galon Us", "Litros", "Pinta Us", "ML" },//Volumen
                 new string[] { "GB", "Bit", "Byte", "KB", "MG", "TB" },//Almacenamiento
                 new string[] { "Dia", "Segundos", "Minutos", "Horas", "Semana", "Meses", "Año" },//Tiempo
+                new  string[] {"Ki2", "Mt2", "Milla cuadrada", "Yarda cuadrada", "Pie cuadrado", "Pulgada cuadrada", "Hectarea", "Acre"},//Area
         };
         double[][] valores = new double[][]{
             new double[]{1, 18.78, 7.66, 26.15, 8.75, 36.78, 504.12 },//Monedas
@@ -39,10 +42,21 @@ namespace Kevin_conversor
             new double[]{1, 3.78541, 8, 3785.41},//Volumen
             new double[]{1, 8e+9, 1e+9, 1e+6, 1000, 0.01 },//Almacenamiento
             new double[]{1, 86400, 1440, 24, 0.142857, 0.0328767, 0.00273791},//Tiempo
+            new double[]{1, 1e+6, 0.386102, 1.19599e+6, 1.07639e+7, 1.55e+9, 100},//Area
         };
+        private int tipo;
 
+        private double convertir(int opcion, int d, int a, double cantidad)
+        {
+            if (cantidad < 0)
+            {
+           
+            } return cantidad * valores[tipo][a] / valores[tipo][d];
+            return cantidad * (valores[opcion][a] / valores[tipo][d]);
+        }
 
         private void btnConvertir_Click(object sender, EventArgs e) {
+
             double cantidad = double.Parse(txtCantidadConversor.Text);
 
             int tipo = cboTipoConversor.SelectedIndex;
@@ -52,7 +66,13 @@ namespace Kevin_conversor
             double respuesta = cantidad * (valores[tipo][a] / valores[tipo][de]);
 
             lblRespuestaConversor.Text = respuesta.ToString("N2");
+  }Catch(Exception (er)
+        {
+            lblRespuestaConversor.Text = "Error" + er.Mesage + " solo valores validos";
         }
+        
+        }
+
         private void cboTipoConversor_SelectedIndexChanged(object sender, EventArgs e) {
             cboDeConversor.Items.Clear();
             cboAConversor.Items.Clear();
@@ -64,5 +84,6 @@ namespace Kevin_conversor
         private void button1_Click(object sender, EventArgs e)
         {
             Close();
+        }
         }
     }

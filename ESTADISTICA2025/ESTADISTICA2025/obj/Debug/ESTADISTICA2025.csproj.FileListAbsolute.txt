@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\bin\Debug\ESTADISTICA2025.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\bin\Debug\ESTADISTICA2025.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\bin\Debug\ESTADISTICA2025.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ESTADISTICA2025\ESTADISTICA2025\obj\Debug\ESTADISTICA2025.exe.config

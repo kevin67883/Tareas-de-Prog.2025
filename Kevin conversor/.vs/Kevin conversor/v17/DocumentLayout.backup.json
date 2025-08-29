@@ -3,12 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\Kevin conversor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|c:\\users\\kevin\\desktop\\tareas de pro\\kevin conversor\\kevin conversor\\form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|solutionrelative:kevin conversor\\form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|c:\\users\\kevin\\desktop\\form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|c:\\users\\kevin\\desktop\\tareas de pro\\kevin conversor\\kevin conversor\\form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|solutionrelative:kevin conversor\\form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|c:\\users\\kevin\\desktop\\form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +26,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs 20222.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\Kevin conversor\\Kevin conversor\\Form1.cs 20222.cs",
-              "RelativeDocumentMoniker": "Kevin conversor\\Form1.cs 20222.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\Kevin conversor\\Kevin conversor\\Form1.cs 20222.cs",
-              "RelativeToolTip": "Kevin conversor\\Form1.cs 20222.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwEMAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form1.cs 20222.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs",
+              "RelativeToolTip": "..\\..\\Form1.cs 20222.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T03:12:40.572Z",
               "EditorCaption": ""
@@ -41,10 +39,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs 20222.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\Kevin conversor\\Kevin conversor\\Form1.cs 20222.cs",
-              "RelativeDocumentMoniker": "Kevin conversor\\Form1.cs 20222.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\Kevin conversor\\Kevin conversor\\Form1.cs 20222.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Kevin conversor\\Form1.cs 20222.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form1.cs 20222.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Form1.cs 20222.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T02:59:24.172Z",
               "EditorCaption": " [Dise\u00F1o]"

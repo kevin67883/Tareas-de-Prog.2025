@@ -1,0 +1,5 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Estadistica\Estadistica\obj\Debug\Estadistica.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Estadistica\Estadistica\obj\Debug\Estadistica.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Estadistica\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Estadistica\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Estadistica\Estadistica\obj\Debug\Estadistica.csproj.CoreCompileInputs.cache

@@ -50,7 +50,8 @@
             "Longitud",
             "Volumen",
             "Almacenamiento",
-            "Tiempo"});
+            "Tiempo",
+            "Area"});
             this.cboTipoConversor.Location = new System.Drawing.Point(425, 68);
             this.cboTipoConversor.Name = "cboTipoConversor";
             this.cboTipoConversor.Size = new System.Drawing.Size(121, 21);
@@ -60,43 +61,47 @@
             // lblTipoConversor
             // 
             this.lblTipoConversor.AutoSize = true;
-            this.lblTipoConversor.Location = new System.Drawing.Point(287, 71);
+            this.lblTipoConversor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTipoConversor.Location = new System.Drawing.Point(238, 69);
             this.lblTipoConversor.Name = "lblTipoConversor";
-            this.lblTipoConversor.Size = new System.Drawing.Size(35, 13);
+            this.lblTipoConversor.Size = new System.Drawing.Size(49, 20);
             this.lblTipoConversor.TabIndex = 1;
             this.lblTipoConversor.Text = "TIPO:";
             // 
             // lblDeConversor
             // 
             this.lblDeConversor.AutoSize = true;
-            this.lblDeConversor.Location = new System.Drawing.Point(297, 124);
+            this.lblDeConversor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDeConversor.Location = new System.Drawing.Point(238, 126);
             this.lblDeConversor.Name = "lblDeConversor";
-            this.lblDeConversor.Size = new System.Drawing.Size(25, 13);
+            this.lblDeConversor.Size = new System.Drawing.Size(36, 20);
             this.lblDeConversor.TabIndex = 1;
             this.lblDeConversor.Text = "DE:";
             // 
             // lblAConversor
             // 
             this.lblAConversor.AutoSize = true;
-            this.lblAConversor.Location = new System.Drawing.Point(287, 172);
+            this.lblAConversor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAConversor.Location = new System.Drawing.Point(238, 175);
             this.lblAConversor.Name = "lblAConversor";
-            this.lblAConversor.Size = new System.Drawing.Size(14, 13);
+            this.lblAConversor.Size = new System.Drawing.Size(20, 20);
             this.lblAConversor.TabIndex = 1;
             this.lblAConversor.Text = "A";
             // 
             // lblCantidadConversor
             // 
             this.lblCantidadConversor.AutoSize = true;
-            this.lblCantidadConversor.Location = new System.Drawing.Point(273, 252);
+            this.lblCantidadConversor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCantidadConversor.Location = new System.Drawing.Point(219, 247);
             this.lblCantidadConversor.Name = "lblCantidadConversor";
-            this.lblCantidadConversor.Size = new System.Drawing.Size(65, 13);
+            this.lblCantidadConversor.Size = new System.Drawing.Size(95, 20);
             this.lblCantidadConversor.TabIndex = 1;
             this.lblCantidadConversor.Text = "CANTIDAD:";
             // 
             // cboDeConversor
             // 
             this.cboDeConversor.FormattingEnabled = true;
-            this.cboDeConversor.Location = new System.Drawing.Point(425, 116);
+            this.cboDeConversor.Location = new System.Drawing.Point(413, 125);
             this.cboDeConversor.Name = "cboDeConversor";
             this.cboDeConversor.Size = new System.Drawing.Size(121, 21);
             this.cboDeConversor.TabIndex = 0;
@@ -112,14 +117,16 @@
             // lblRespuestaConversor
             // 
             this.lblRespuestaConversor.AutoSize = true;
-            this.lblRespuestaConversor.Location = new System.Drawing.Point(273, 317);
+            this.lblRespuestaConversor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRespuestaConversor.Location = new System.Drawing.Point(219, 313);
             this.lblRespuestaConversor.Name = "lblRespuestaConversor";
-            this.lblRespuestaConversor.Size = new System.Drawing.Size(49, 13);
+            this.lblRespuestaConversor.Size = new System.Drawing.Size(72, 20);
             this.lblRespuestaConversor.TabIndex = 1;
             this.lblRespuestaConversor.Text = "SUMAR:";
             // 
             // btnConvertir
             // 
+            this.btnConvertir.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnConvertir.Location = new System.Drawing.Point(425, 297);
             this.btnConvertir.Name = "btnConvertir";
             this.btnConvertir.Size = new System.Drawing.Size(109, 52);
@@ -134,9 +141,11 @@
             this.txtCantidadConversor.Name = "txtCantidadConversor";
             this.txtCantidadConversor.Size = new System.Drawing.Size(100, 20);
             this.txtCantidadConversor.TabIndex = 3;
+            this.txtCantidadConversor.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // button1
             // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(647, 307);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(89, 42);
