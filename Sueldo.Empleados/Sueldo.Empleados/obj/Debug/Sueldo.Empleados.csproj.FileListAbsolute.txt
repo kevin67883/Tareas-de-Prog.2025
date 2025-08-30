@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\bin\Debug\Sueldo.Empleados.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\bin\Debug\Sueldo.Empleados.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\bin\Debug\Sueldo.Empleados.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Sueldo.Empleados\Sueldo.Empleados\obj\Debug\Sueldo.Empleados.exe.config
