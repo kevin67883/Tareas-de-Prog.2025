@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor_Mas_Volm_Tiem_Mon__etc.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor_Mas_Volm_Tiem_Mon__etc.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\bin\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\bin\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\bin\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Conversor Mas,Volm,Tiem,Mon,,etc\Conversor Mas,Volm,Tiem,Mon,,etc\obj\Debug\Conversor Mas,Volm,Tiem,Mon,,etc.exe.config
