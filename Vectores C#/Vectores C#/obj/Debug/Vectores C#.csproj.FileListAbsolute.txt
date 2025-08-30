@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\bin\Debug\Vectores C#.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\bin\Debug\Vectores C#.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\bin\Debug\Vectores C#.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores C#.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores_C_.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores_C_.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores C#.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores C#.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores C#.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores C#.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Vectores C#\Vectores C#\obj\Debug\Vectores C#.exe.config
