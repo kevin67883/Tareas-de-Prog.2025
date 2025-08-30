@@ -1,0 +1,10 @@
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\bin\Debug\bbb.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\bin\Debug\bbb.exe
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\bin\Debug\bbb.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.exe
+C:\Users\kevin\Desktop\Tareas de Pro\bbb\bbb\obj\Debug\bbb.pdb
