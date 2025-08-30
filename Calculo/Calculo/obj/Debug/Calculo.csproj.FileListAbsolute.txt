@@ -1,0 +1,11 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Calculo\Calculo\obj\Debug\Calculo.exe.config
