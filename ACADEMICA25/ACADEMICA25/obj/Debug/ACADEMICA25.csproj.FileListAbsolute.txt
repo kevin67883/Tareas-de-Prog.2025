@@ -1,0 +1,13 @@
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\bin\Debug\dbAcademico.mdf
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\bin\Debug\dbAcademico_log.ldf
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\bin\Debug\ACADEMICA25.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\bin\Debug\ACADEMICA25.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\bin\Debug\ACADEMICA25.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA25\ACADEMICA25\obj\Debug\ACADEMICA25.exe.config

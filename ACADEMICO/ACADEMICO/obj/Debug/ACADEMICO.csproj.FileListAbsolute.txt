@@ -1,0 +1,9 @@
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\bin\Debug\ACADEMICO.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\bin\Debug\ACADEMICO.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\bin\Debug\ACADEMICO.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\obj\Debug\ACADEMICO.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\obj\Debug\ACADEMICO.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\obj\Debug\ACADEMICO.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\obj\Debug\ACADEMICO.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\obj\Debug\ACADEMICO.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICO\ACADEMICO\obj\Debug\ACADEMICO.pdb

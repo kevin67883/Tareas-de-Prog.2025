@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\Kevin conversor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|c:\\users\\kevin\\desktop\\form1.cs 20222.cshh||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C626AF08-5BC9-4D49-B433-AA02A9519FAC}|Kevin conversor\\Kevin conversor.csproj|c:\\users\\kevin\\desktop\\form1.cs 20222.cshh||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,7 +24,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs 20222.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cs",
               "RelativeDocumentMoniker": "..\\..\\Form1.cs 20222.cs",
@@ -37,7 +37,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs 20222.cshh",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Form1.cs 20222.cshh",
               "RelativeDocumentMoniker": "..\\..\\Form1.cs 20222.cshh",
