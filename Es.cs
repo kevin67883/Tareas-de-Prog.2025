@@ -21,11 +21,28 @@ namespace ALUMNOS
         DataTable objDt = new DataTable();
 
         public int posicion = 0;
-        public string accion = "";
+        public string accion = "nuevo";
+
+        private void actualizarDs() {
+            objDs.Clear();//Limpiar el DataSet
+            objDs = objConexion.obtenerDatos();
+            objDt = objDs.Tables["alumnos"];
+            objDt.PrimaryKey = new DataColumn[] { objDt.Columns["idAlumno"] };
+
+        }
+        private void mostrarDatos() {
+        if(objDt.Rows.Count > 0){
+                lblIdAlumno.Text = objDt.Rows[posicion]["idAlumno"].ToString();
+                txtCodigoAlumno.Text = objDt.Rows[posicion]["codigo"].ToString();
+                txtNombreAlumno.Text = objDt.Rows[posicion]["nombre"].ToString();
+                txtDireccionAlumno.Text = objDt.Rows[posicion]["direccion"].ToString();
+                txtTelefonoAlumno.Text = objDt.Rows[posicion]["telefono"].ToString();
+            }
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            actualizarDs();
         }
     }
 }

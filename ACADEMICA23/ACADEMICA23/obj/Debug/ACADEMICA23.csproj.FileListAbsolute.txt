@@ -1,0 +1,13 @@
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\bin\Debug\ACADEMICA23.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\bin\Debug\ACADEMICA23.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\bin\Debug\ACADEMICA23.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.exe
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\obj\Debug\ACADEMICA23.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\bin\Debug\db_academica.mdf
+C:\Users\kevin\Desktop\Tareas de Pro\ACADEMICA23\ACADEMICA23\bin\Debug\db_academica_log.ldf
