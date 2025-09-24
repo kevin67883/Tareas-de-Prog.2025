@@ -1,0 +1,13 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\bin\Debug\db_docentes.mdf
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\bin\Debug\db_docentes_log.ldf
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\bin\Debug\Docentes.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\bin\Debug\Docentes.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\bin\Debug\Docentes.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Docentes\Docentes\obj\Debug\Docentes.exe.config
