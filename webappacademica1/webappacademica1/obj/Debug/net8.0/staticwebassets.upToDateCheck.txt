@@ -1,0 +1,2 @@
+wwwroot\imagen\imagen.png
+wwwroot\views\index.html
