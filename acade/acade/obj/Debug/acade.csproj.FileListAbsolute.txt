@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\miPrimerProyectoCsharp.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\bin\Debug\acade.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\bin\Debug\acade.exe
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\bin\Debug\acade.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.exe
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\bin\Debug\db_academica.mdf
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\bin\Debug\db_academica_log.ldf
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\acade\acade\obj\Debug\acade._.resources

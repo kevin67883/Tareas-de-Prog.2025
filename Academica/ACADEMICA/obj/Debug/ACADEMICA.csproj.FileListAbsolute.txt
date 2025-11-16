@@ -1,0 +1,17 @@
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\bin\Debug\db_academica.mdf
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\bin\Debug\db_academica_log.ldf
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\bin\Debug\ACADEMICA.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\bin\Debug\ACADEMICA.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\bin\Debug\ACADEMICA.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.Form1.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.Properties.Resources.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.exe
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.pdb
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.exe.config
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.frmMaterias.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.frmNotas.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.frmPeriodos.resources
+C:\Users\kevin\Desktop\Tareas de Pro\Academica\ACADEMICA\obj\Debug\ACADEMICA.frmPrincipal.resources
