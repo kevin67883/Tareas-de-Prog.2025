@@ -39,27 +39,30 @@
             // lblArmonica
             // 
             this.lblArmonica.AutoSize = true;
-            this.lblArmonica.Location = new System.Drawing.Point(271, 226);
+            this.lblArmonica.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblArmonica.Location = new System.Drawing.Point(240, 224);
             this.lblArmonica.Name = "lblArmonica";
-            this.lblArmonica.Size = new System.Drawing.Size(51, 13);
+            this.lblArmonica.Size = new System.Drawing.Size(84, 20);
             this.lblArmonica.TabIndex = 11;
             this.lblArmonica.Text = "Armonica";
             // 
             // lblTipica
             // 
             this.lblTipica.AutoSize = true;
-            this.lblTipica.Location = new System.Drawing.Point(271, 182);
+            this.lblTipica.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTipica.Location = new System.Drawing.Point(255, 171);
             this.lblTipica.Name = "lblTipica";
-            this.lblTipica.Size = new System.Drawing.Size(39, 13);
+            this.lblTipica.Size = new System.Drawing.Size(61, 20);
             this.lblTipica.TabIndex = 10;
             this.lblTipica.Text = "Tipica:";
             // 
             // lblMedia
             // 
             this.lblMedia.AutoSize = true;
-            this.lblMedia.Location = new System.Drawing.Point(255, 133);
+            this.lblMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMedia.Location = new System.Drawing.Point(255, 125);
             this.lblMedia.Name = "lblMedia";
-            this.lblMedia.Size = new System.Drawing.Size(39, 13);
+            this.lblMedia.Size = new System.Drawing.Size(62, 20);
             this.lblMedia.TabIndex = 9;
             this.lblMedia.Text = "Media:";
             // 
@@ -73,9 +76,10 @@
             // lblSerie
             // 
             this.lblSerie.AutoSize = true;
+            this.lblSerie.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSerie.Location = new System.Drawing.Point(255, 79);
             this.lblSerie.Name = "lblSerie";
-            this.lblSerie.Size = new System.Drawing.Size(42, 13);
+            this.lblSerie.Size = new System.Drawing.Size(69, 20);
             this.lblSerie.TabIndex = 7;
             this.lblSerie.Text = "SERIE:";
             // 
@@ -88,6 +92,7 @@
             this.btnCalcular.TabIndex = 6;
             this.btnCalcular.Text = "CALCULAR";
             this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // Form1
             // 
@@ -102,6 +107,7 @@
             this.Controls.Add(this.btnCalcular);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
