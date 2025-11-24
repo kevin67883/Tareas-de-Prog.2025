@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Tareas de Prou\\Tareas-de-Prog.2025.git\\estadistica2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8808CCD9-7BCE-45D2-BA04-95742136AF1E}|estadistica2\\estadistica2.csproj|c:\\users\\kevin\\desktop\\tareas de prou\\tareas-de-prog.2025.git\\estadistica2\\estadistica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8808CCD9-7BCE-45D2-BA04-95742136AF1E}|estadistica2\\estadistica2.csproj|solutionrelative:estadistica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8808CCD9-7BCE-45D2-BA04-95742136AF1E}|estadistica2\\estadistica2.csproj|c:\\users\\kevin\\desktop\\tareas de prou\\tareas-de-prog.2025.git\\estadistica2\\estadistica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8808CCD9-7BCE-45D2-BA04-95742136AF1E}|estadistica2\\estadistica2.csproj|solutionrelative:estadistica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -51,19 +47,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Prou\\Tareas-de-Prog.2025.git\\estadistica2\\estadistica2\\Form1.cs",
-              "RelativeDocumentMoniker": "estadistica2\\Form1.cs",
-              "ToolTip": "C:\\Users\\kevin\\Desktop\\Tareas de Prou\\Tareas-de-Prog.2025.git\\estadistica2\\estadistica2\\Form1.cs",
-              "RelativeToolTip": "estadistica2\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:51:11.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Prou\\Tareas-de-Prog.2025.git\\estadistica2\\estadistica2\\Form1.cs",
               "RelativeDocumentMoniker": "estadistica2\\Form1.cs",
