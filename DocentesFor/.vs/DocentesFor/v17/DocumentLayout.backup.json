@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50167C76-1900-4999-B459-9BFB0B76206F}|DocentesFor\\DocentesFor.csproj|c:\\users\\kevin\\desktop\\tareas de pro\\docentesfor\\docentesfor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50167C76-1900-4999-B459-9BFB0B76206F}|DocentesFor\\DocentesFor.csproj|solutionrelative:docentesfor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50167C76-1900-4999-B459-9BFB0B76206F}|DocentesFor\\DocentesFor.csproj|c:\\users\\kevin\\desktop\\tareas de pro\\docentesfor\\docentesfor\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50167C76-1900-4999-B459-9BFB0B76206F}|DocentesFor\\DocentesFor.csproj|solutionrelative:docentesfor\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50167C76-1900-4999-B459-9BFB0B76206F}|DocentesFor\\DocentesFor.csproj|c:\\users\\kevin\\desktop\\tareas de pro\\docentesfor\\docentesfor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50167C76-1900-4999-B459-9BFB0B76206F}|DocentesFor\\DocentesFor.csproj|solutionrelative:docentesfor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_KEVIN_DESKTOP_TAREAS_DE_PRO_DOCENTESFOR_DOCENTESFOR_DB_ACADEMICA.MDF/True/SqlTable/dbo.alumnos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.alumnos [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_KEVIN_DESKTOP_TAREAS_DE_PRO_DOCENTESFOR_DOCENTESFOR_DB_ACADEMICA.MDF/True/SqlTable/dbo.alumnos.sql",
+              "ToolTip": "dbo.alumnos [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-30T22:07:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\DocentesFor\\Form1.cs",
+              "RelativeDocumentMoniker": "DocentesFor\\Form1.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\DocentesFor\\Form1.cs",
+              "RelativeToolTip": "DocentesFor\\Form1.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:18:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\DocentesFor\\Conexion.cs",
+              "RelativeDocumentMoniker": "DocentesFor\\Conexion.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\DocentesFor\\Conexion.cs",
+              "RelativeToolTip": "DocentesFor\\Conexion.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:29:13.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\DocentesFor\\Form1.cs",
+              "RelativeDocumentMoniker": "DocentesFor\\Form1.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\DocentesFor\\DocentesFor\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DocentesFor\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:23:16.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
