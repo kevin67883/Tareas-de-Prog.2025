@@ -192,5 +192,10 @@ namespace WindowsFormsApp1
         {
             selecionarDocente();
         }
+
+        private void grdDocente_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

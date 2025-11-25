@@ -76,9 +76,9 @@
             this.grbDatosDocente.Controls.Add(this.lblCodigoDocente);
             this.grbDatosDocente.Enabled = false;
             this.grbDatosDocente.Location = new System.Drawing.Point(18, 14);
-            this.grbDatosDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbDatosDocente.Margin = new System.Windows.Forms.Padding(2);
             this.grbDatosDocente.Name = "grbDatosDocente";
-            this.grbDatosDocente.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbDatosDocente.Padding = new System.Windows.Forms.Padding(2);
             this.grbDatosDocente.Size = new System.Drawing.Size(291, 201);
             this.grbDatosDocente.TabIndex = 1;
             this.grbDatosDocente.TabStop = false;
@@ -97,7 +97,7 @@
             // txtTelefonoDocente
             // 
             this.txtTelefonoDocente.Location = new System.Drawing.Point(58, 160);
-            this.txtTelefonoDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtTelefonoDocente.Margin = new System.Windows.Forms.Padding(2);
             this.txtTelefonoDocente.Name = "txtTelefonoDocente";
             this.txtTelefonoDocente.Size = new System.Drawing.Size(163, 20);
             this.txtTelefonoDocente.TabIndex = 6;
@@ -115,7 +115,7 @@
             // txtDireccionDocente
             // 
             this.txtDireccionDocente.Location = new System.Drawing.Point(58, 125);
-            this.txtDireccionDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtDireccionDocente.Margin = new System.Windows.Forms.Padding(2);
             this.txtDireccionDocente.Name = "txtDireccionDocente";
             this.txtDireccionDocente.Size = new System.Drawing.Size(163, 20);
             this.txtDireccionDocente.TabIndex = 4;
@@ -133,7 +133,7 @@
             // txtNombreDocente
             // 
             this.txtNombreDocente.Location = new System.Drawing.Point(51, 90);
-            this.txtNombreDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtNombreDocente.Margin = new System.Windows.Forms.Padding(2);
             this.txtNombreDocente.Name = "txtNombreDocente";
             this.txtNombreDocente.Size = new System.Drawing.Size(170, 20);
             this.txtNombreDocente.TabIndex = 2;
@@ -151,7 +151,7 @@
             // txtCodigoDocente
             // 
             this.txtCodigoDocente.Location = new System.Drawing.Point(42, 54);
-            this.txtCodigoDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtCodigoDocente.Margin = new System.Windows.Forms.Padding(2);
             this.txtCodigoDocente.Name = "txtCodigoDocente";
             this.txtCodigoDocente.Size = new System.Drawing.Size(179, 20);
             this.txtCodigoDocente.TabIndex = 1;
@@ -174,9 +174,9 @@
             this.grbNavegación.Controls.Add(this.btnAnteriorDocente);
             this.grbNavegación.Controls.Add(this.btnPrimerDocente);
             this.grbNavegación.Location = new System.Drawing.Point(18, 243);
-            this.grbNavegación.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbNavegación.Margin = new System.Windows.Forms.Padding(2);
             this.grbNavegación.Name = "grbNavegación";
-            this.grbNavegación.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbNavegación.Padding = new System.Windows.Forms.Padding(2);
             this.grbNavegación.Size = new System.Drawing.Size(287, 65);
             this.grbNavegación.TabIndex = 9;
             this.grbNavegación.TabStop = false;
@@ -195,7 +195,7 @@
             // btnUltimoDocente
             // 
             this.btnUltimoDocente.Location = new System.Drawing.Point(211, 20);
-            this.btnUltimoDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnUltimoDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnUltimoDocente.Name = "btnUltimoDocente";
             this.btnUltimoDocente.Size = new System.Drawing.Size(37, 36);
             this.btnUltimoDocente.TabIndex = 5;
@@ -206,7 +206,7 @@
             // btnSiguienteDocente
             // 
             this.btnSiguienteDocente.Location = new System.Drawing.Point(164, 20);
-            this.btnSiguienteDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSiguienteDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnSiguienteDocente.Name = "btnSiguienteDocente";
             this.btnSiguienteDocente.Size = new System.Drawing.Size(37, 36);
             this.btnSiguienteDocente.TabIndex = 4;
@@ -217,7 +217,7 @@
             // btnAnteriorDocente
             // 
             this.btnAnteriorDocente.Location = new System.Drawing.Point(58, 20);
-            this.btnAnteriorDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAnteriorDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnAnteriorDocente.Name = "btnAnteriorDocente";
             this.btnAnteriorDocente.Size = new System.Drawing.Size(37, 36);
             this.btnAnteriorDocente.TabIndex = 3;
@@ -228,7 +228,7 @@
             // btnPrimerDocente
             // 
             this.btnPrimerDocente.Location = new System.Drawing.Point(11, 20);
-            this.btnPrimerDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnPrimerDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnPrimerDocente.Name = "btnPrimerDocente";
             this.btnPrimerDocente.Size = new System.Drawing.Size(37, 36);
             this.btnPrimerDocente.TabIndex = 2;
@@ -242,9 +242,9 @@
             this.grbnavegacionDocente.Controls.Add(this.btnModificarDocente);
             this.grbnavegacionDocente.Controls.Add(this.btnNuevoDocente);
             this.grbnavegacionDocente.Location = new System.Drawing.Point(333, 243);
-            this.grbnavegacionDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbnavegacionDocente.Margin = new System.Windows.Forms.Padding(2);
             this.grbnavegacionDocente.Name = "grbnavegacionDocente";
-            this.grbnavegacionDocente.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbnavegacionDocente.Padding = new System.Windows.Forms.Padding(2);
             this.grbnavegacionDocente.Size = new System.Drawing.Size(335, 65);
             this.grbnavegacionDocente.TabIndex = 6;
             this.grbnavegacionDocente.TabStop = false;
@@ -253,7 +253,7 @@
             // btnEliminarDocente
             // 
             this.btnEliminarDocente.Location = new System.Drawing.Point(225, 20);
-            this.btnEliminarDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnEliminarDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnEliminarDocente.Name = "btnEliminarDocente";
             this.btnEliminarDocente.Size = new System.Drawing.Size(84, 36);
             this.btnEliminarDocente.TabIndex = 5;
@@ -264,7 +264,7 @@
             // btnModificarDocente
             // 
             this.btnModificarDocente.Location = new System.Drawing.Point(121, 20);
-            this.btnModificarDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnModificarDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnModificarDocente.Name = "btnModificarDocente";
             this.btnModificarDocente.Size = new System.Drawing.Size(84, 36);
             this.btnModificarDocente.TabIndex = 4;
@@ -275,7 +275,7 @@
             // btnNuevoDocente
             // 
             this.btnNuevoDocente.Location = new System.Drawing.Point(13, 20);
-            this.btnNuevoDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnNuevoDocente.Margin = new System.Windows.Forms.Padding(2);
             this.btnNuevoDocente.Name = "btnNuevoDocente";
             this.btnNuevoDocente.Size = new System.Drawing.Size(84, 36);
             this.btnNuevoDocente.TabIndex = 3;
@@ -288,9 +288,9 @@
             this.grbBusquedaDocente.Controls.Add(this.grdDocente);
             this.grbBusquedaDocente.Controls.Add(this.txtBuscarDocente);
             this.grbBusquedaDocente.Location = new System.Drawing.Point(333, 27);
-            this.grbBusquedaDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbBusquedaDocente.Margin = new System.Windows.Forms.Padding(2);
             this.grbBusquedaDocente.Name = "grbBusquedaDocente";
-            this.grbBusquedaDocente.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grbBusquedaDocente.Padding = new System.Windows.Forms.Padding(2);
             this.grbBusquedaDocente.Size = new System.Drawing.Size(452, 188);
             this.grbBusquedaDocente.TabIndex = 10;
             this.grbBusquedaDocente.TabStop = false;
@@ -308,7 +308,7 @@
             this.Direccion,
             this.Telefono});
             this.grdDocente.Location = new System.Drawing.Point(24, 60);
-            this.grdDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grdDocente.Margin = new System.Windows.Forms.Padding(2);
             this.grdDocente.Name = "grdDocente";
             this.grdDocente.ReadOnly = true;
             this.grdDocente.RowHeadersWidth = 62;
@@ -316,6 +316,7 @@
             this.grdDocente.Size = new System.Drawing.Size(423, 114);
             this.grdDocente.TabIndex = 1;
             this.grdDocente.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grdDocente_CellClick);
+            this.grdDocente.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grdDocente_CellContentClick);
             // 
             // IdDocente
             // 
@@ -366,7 +367,7 @@
             // txtBuscarDocente
             // 
             this.txtBuscarDocente.Location = new System.Drawing.Point(13, 23);
-            this.txtBuscarDocente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtBuscarDocente.Margin = new System.Windows.Forms.Padding(2);
             this.txtBuscarDocente.Name = "txtBuscarDocente";
             this.txtBuscarDocente.Size = new System.Drawing.Size(436, 20);
             this.txtBuscarDocente.TabIndex = 0;
@@ -381,7 +382,7 @@
             this.Controls.Add(this.grbnavegacionDocente);
             this.Controls.Add(this.grbNavegación);
             this.Controls.Add(this.grbDatosDocente);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "fmrDocente";
             this.Text = "fmrDocente";
             this.Load += new System.EventHandler(this.fmrDocente_Load);
