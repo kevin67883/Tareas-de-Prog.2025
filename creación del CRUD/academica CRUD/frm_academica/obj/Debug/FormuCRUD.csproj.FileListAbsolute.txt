@@ -63,3 +63,20 @@ C:\Users\kevin\Desktop\Tareas de Pro\Tareas-de-Prog.2025.gita\creación del CRUD
 C:\Users\kevin\Desktop\Tareas de Pro\Tareas-de-Prog.2025.gita\creación del CRUD\academica CRUD\frm_academica\obj\Debug\FormuCRUD.csproj.CoreCompileInputs.cache
 C:\Users\kevin\Desktop\Tareas de Pro\Tareas-de-Prog.2025.gita\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.exe
 C:\Users\kevin\Desktop\Tareas de Pro\Tareas-de-Prog.2025.gita\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\bin\Debug\DB_academica.mdf
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\bin\Debug\DB_academica_log.ldf
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\FormuCRUD.csproj.AssemblyReference.cache
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.fmrDocente.resources
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\Formulario_Academica.Form1.resources
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\Formulario_Academica.frmMaterias.resources
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\Formulario_Academica.frmPeriodos.resources
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\Formulario_Academica.frmPrincipal.resources
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\FormuCRUD.csproj.GenerateResource.cache
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\FormuCRUD.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.pdb
