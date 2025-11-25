@@ -277,6 +277,7 @@
             this.Controls.Add(this.txtNum1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
             this.grbOpociones.ResumeLayout(false);
             this.grbOpociones.PerformLayout();
             this.ResumeLayout(false);
