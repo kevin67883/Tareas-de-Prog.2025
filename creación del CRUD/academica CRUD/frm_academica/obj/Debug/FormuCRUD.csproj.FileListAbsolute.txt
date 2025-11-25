@@ -80,3 +80,4 @@ C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRU
 C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\FormuCRUD.csproj.CoreCompileInputs.cache
 C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.exe
 C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kevin\Pictures\Tareas-de-Prog.2025.git\creación del CRUD\academica CRUD\frm_academica\obj\Debug\WindowsFormsApp1.frmNota.resources

@@ -10,6 +10,11 @@ namespace WindowsFormsApp1
             throw new NotImplementedException();
         }
 
+        internal string ejecutarSQL(string sql)
+        {
+            throw new NotImplementedException();
+        }
+
         internal DataSet ObtenerDatos()
         {
             throw new NotImplementedException();

@@ -56,6 +56,7 @@
             this.btnGuardar.TabIndex = 19;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // dnotasDataGridView
             // 
@@ -70,6 +71,7 @@
             this.dnotasDataGridView.Name = "dnotasDataGridView";
             this.dnotasDataGridView.Size = new System.Drawing.Size(658, 274);
             this.dnotasDataGridView.TabIndex = 18;
+            this.dnotasDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dnotasDataGridView_CellContentClick);
             // 
             // idDetalle
             // 
@@ -131,6 +133,7 @@
             this.cboMateria.Size = new System.Drawing.Size(257, 21);
             this.cboMateria.TabIndex = 13;
             this.cboMateria.ValueMember = "idMateria";
+            this.cboMateria.SelectedIndexChanged += new System.EventHandler(this.cboMateria_SelectedIndexChanged);
             // 
             // lblPeriodo
             // 
@@ -151,6 +154,7 @@
             this.cboPeriodo.Size = new System.Drawing.Size(200, 21);
             this.cboPeriodo.TabIndex = 15;
             this.cboPeriodo.ValueMember = "idPeriodo";
+            this.cboPeriodo.SelectedIndexChanged += new System.EventHandler(this.cboPeriodo_SelectedIndexChanged);
             // 
             // lblFecha
             // 
@@ -185,6 +189,7 @@
             this.Controls.Add(this.fechaDateTimePicker);
             this.Name = "frmNota";
             this.Text = "frmNota";
+            this.Load += new System.EventHandler(this.frmNota_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dnotasDataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
