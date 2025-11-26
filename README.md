@@ -1,2 +1,4 @@
 # Tareas-de-Prog.2025
-Hola.
+Codigos, ejemplos y practicas de la materia programacion Computacional l
+
+#Proyecto Final
