@@ -3,7 +3,6 @@
         <div class="card-header">
             <div class="d-flex">
                 Administracion de Alumnos
-
                 <div class="ms-auto">
                     <button data-form="alumno" type="button" class="btn-close" aria-label="Close"></button>
                 </div>
@@ -44,35 +43,79 @@
         </div>
     </div>
 </form>
+
 <script>
+    var accion = 'nuevo',
+        idAlumno = 0;
+
+    const frmAlumno = document.getElementById('frmAlumno');
+
     frmAlumno.addEventListener('submit', e => {
         e.preventDefault();
         guardarAlumno();
     });
+
     async function guardarAlumno() {
         let datos = {
             codigo: txtCodigoAlumno.value,
             nombre: txtNombreAlumno.value,
             direccion: txtDireccionAlumno.value,
             telefono: txtTelefonoAlumno.value
-        },
-            url = 'https://localhost:7005/api/Alumnos',
-            method = 'POST';
-        const respuesta = await fetch(url, {
-            method,
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify(datos)
-        }), alumno = await respuesta.json();
-        if ((alumno?.idAlumno || 0) > 0) {
-            limpiarDatosAlumno();
+        };
+
+        // URL base para POST
+        let url = 'https://localhost:7259/api/Alumnos';
+        let method = 'POST';
+
+        if (accion === "modificar") {
+            method = 'PUT';
+            url = `https://localhost:7259/api/Alumnos/${idAlumno}`;
+            datos.idAlumno = idAlumno;
+        }
+
+        try {
+            const respuesta = await fetch(url, {
+                method,
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(datos)
+            });
+
+            if (!respuesta.ok) {
+                console.error("Error HTTP:", respuesta.status);
+                alert("No se pudo guardar. Código: " + respuesta.status);
+                return;
+            }
+
+            const alumno = await respuesta.json();
+
+            if ((alumno?.idAlumno || 0) > 0) {
+                limpiarDatosAlumno();
+                alert("Alumno guardado correctamente");
+                listarAlumnos();
+            }
+        } catch (error) {
+            console.error("Error al guardar alumno:", error);
+            alert("Ocurrió un error al guardar el alumno");
         }
     }
+
     function limpiarDatosAlumno() {
+        accion = "nuevo";
+        idAlumno = 0;
         txtCodigoAlumno.value = "";
         txtNombreAlumno.value = "";
         txtDireccionAlumno.value = "";
         txtTelefonoAlumno.value = "";
+    }
+
+    function modificarAlumno(alumno) {
+        accion = "modificar";
+        idAlumno = alumno.idAlumno;
+        txtCodigoAlumno.value = alumno.codigo;
+        txtNombreAlumno.value = alumno.nombre;
+        txtDireccionAlumno.value = alumno.direccion;
+        txtTelefonoAlumno.value = alumno.telefono;
     }
 </script>

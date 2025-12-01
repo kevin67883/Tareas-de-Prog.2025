@@ -1,11 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
-namespace webappacademica1.Models{
-    public class MyDbContext : DbContext{
-        public MyDbContext() { }
 
+namespace webappacademica1.Models
+{
+    public class MyDbContext : DbContext
+    {
         public MyDbContext(DbContextOptions<MyDbContext> options) : base(options) { }
+
         public DbSet<Alumno> Alumnos { get; set; }
-        protected override void OnModelCreating(ModelBuilder modelBuilder) {
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Alumno>().HasKey(a => a.idAlumno);
         }

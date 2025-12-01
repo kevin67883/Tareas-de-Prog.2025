@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kohylIP+J4M=",
+  "dgSpecHash": "BCGJHZTkbzg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevin\\Desktop\\Tareas de Pro\\webappacademica1\\webappacademica1\\webappacademica1.csproj",
+  "projectFilePath": "C:\\Users\\kevin\\Pictures\\Screenshots\\Tareas-de-Prog.2025.gi\\webappacademica1\\webappacademica1\\webappacademica1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

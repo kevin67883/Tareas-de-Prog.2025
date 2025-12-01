@@ -1,13 +1,21 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace webappacademica1.Models{
-    
-    public class Alumno{
+namespace webappacademica1.Models
+{
+    public class Alumno
+    {
         [Key]
         public int idAlumno { get; set; }
-        public int codigo { get; set; }
-        public int nombre { get; set; }
-        public int direccion { get; set; }
-        public int telefono { get; set; }
+
+        [Required]
+        public string codigo { get; set; }
+
+        [Required]
+        public string nombre { get; set; }
+
+        [Required]
+        public string direccion { get; set; }
+
+        public string? telefono { get; set; }  // Acepta NULL como en SQL
     }
 }
