@@ -1,0 +1,11 @@
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\bin\Debug\LaboCl.exe.config
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\bin\Debug\LaboCl.exe
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\bin\Debug\LaboCl.pdb
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.Form1.resources
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.Properties.Resources.resources
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.csproj.GenerateResource.cache
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.exe
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.pdb
+C:\Users\kevin\Documents\Tareas-de-Prog.2025.git\LaboCl\LaboCl\obj\Debug\LaboCl.exe.config
