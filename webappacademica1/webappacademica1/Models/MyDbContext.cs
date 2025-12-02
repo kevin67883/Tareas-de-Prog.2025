@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using webappacademica1.Models;
 
 namespace webappacademica1.Models
 {
@@ -13,5 +14,9 @@ namespace webappacademica1.Models
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Alumno>().HasKey(a => a.idAlumno);
         }
+        public DbSet<webappacademica1.Models.Docente> Docente { get; set; } = default!;
+        public DbSet<webappacademica1.Models.Materia> Materia { get; set; } = default!;
+        public DbSet<webappacademica1.Models.Periodo> Periodo { get; set; } = default!;
+        public DbSet<webappacademica1.Models.Matricula> Matricula { get; set; } = default!;
     }
 }

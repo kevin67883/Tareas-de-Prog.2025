@@ -30,7 +30,7 @@ namespace webappacademica1.Controllers
         //Por Kevin
         // GET: api/Alumnos
         [HttpGet("buscar")]
-        public async Task<ActionResult<IEnumerable<Alumno>>> BuscarAlumnos([FromQuery] AlumnoBusquedaParametros parametros) {
+        public async Task<ActionResult<IEnumerable<Alumno>>> BuscarAlumnos([FromQuery] AlumnoBusquedaParametr parametros) {
             var consulta = _context.Alumnos.AsQueryable();
             if(string.IsNullOrEmpty(parametros.buscar)) {
                 consulta = consulta.Where(a => a.nombre.Contains(parametros.buscar));
