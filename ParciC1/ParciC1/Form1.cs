@@ -86,6 +86,11 @@ namespace ParciC1
             lblResultado.Text = resultado.ToString("N4");
 
         }
+
+        private void cboA_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     }
     

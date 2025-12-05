@@ -52,6 +52,7 @@
             this.cboA.Name = "cboA";
             this.cboA.Size = new System.Drawing.Size(121, 21);
             this.cboA.TabIndex = 10;
+            this.cboA.SelectedIndexChanged += new System.EventHandler(this.cboA_SelectedIndexChanged);
             // 
             // cboDe
             // 
