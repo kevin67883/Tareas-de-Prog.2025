@@ -15,7 +15,7 @@ Codigos, ejemplos y practicas de la materia Programacion Computacional l
 * Git - Github
 * Etc.
 
-  ## Requisitos mminimos del proyecto final
+  ## Requisitos minimos del proyecto final
   * Equipos de trabajo
   * Base de datos
   * 5 Formularios basicos (complejidad o una taba)
@@ -24,3 +24,6 @@ Codigos, ejemplos y practicas de la materia Programacion Computacional l
   * 10 Reportes (salida de informacion o presentacin de informacion al usuario)
   * Menus y accessos rapidos, barras de herramientas, cuadros dialogo
   * Creactividad e innovacion.
+ 
+    ## Algunos archivos estan subidos por error y unos que fueron de cache que no son tan importantes.
+    
